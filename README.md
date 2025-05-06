@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GabrieAndrews
-- 👀 I’m interested in video games and Game Development
+- 👋 Hi, I’m @GabrieAndrews, aka Gabe!
+- 👀 I’m interested in video games and Game Development, specifically level design!
 - 🌱 I’m currently learning Game and Simulation Development
-- 💞️ I’m looking to collaborate on Games in the first-person genre
+- 💞️ I’m looking to create some powered-up games!
 - 📫 How to reach me: Therealgabrielandrews@gmail.com
 
 <!---
